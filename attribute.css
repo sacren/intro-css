@@ -1,12 +1,12 @@
-li[] {
+li[lang|=en] {
    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/en-GB.png") 5px center no-repeat;
 }
 
-li[] {
+li[lang|=de] {
    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/de.png") 5px center no-repeat;
 }
 
-li[] {
+li[lang|=es] {
    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/es.png") 5px center no-repeat;
 }
 
