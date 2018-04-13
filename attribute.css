@@ -22,11 +22,11 @@ li[data-perf|='dec'] {
    background-color: rgba(255,0,0,0.7);
 }
 
-li[] {
+li[data-perf$='pro'] {
    font-weight: bold;
 }
 
-li[] {
+li[data-perf$='rel'] {
    font-style: italic;
    color: #666;
 }
