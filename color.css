@@ -1,5 +1,5 @@
 .first {
-  background-color: red;
+  background-color: #ff0000;
   width: 400px;
   height: 200px;
   top: 0;
@@ -7,7 +7,7 @@
 }
 
 .second {
-  background-color: blue;
+  background-color: #0000ff;
   width: 200px;
   height: 200px;
   top: -150px;
@@ -15,7 +15,7 @@
 }
 
 .third {
-  background-color: pink;
+  background-color: #ffc0cb;
   width: 200px;
   height: 300px;
   top: -375px;
