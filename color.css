@@ -1,5 +1,5 @@
 .first {
-  background-color: #ff0000;
+  background-color: rgb(255, 0, 0, 0.5);
   width: 400px;
   height: 200px;
   top: 0;
@@ -7,7 +7,7 @@
 }
 
 .second {
-  background-color: #0000ff;
+  background-color: rgb(0, 0, 255, 0.5);
   width: 200px;
   height: 200px;
   top: -150px;
@@ -15,7 +15,7 @@
 }
 
 .third {
-  background-color: #ffc0cb;
+  background-color: rgb(255, 192, 203, 0.5);
   width: 200px;
   height: 300px;
   top: -375px;
