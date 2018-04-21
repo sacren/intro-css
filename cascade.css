@@ -1,3 +1,7 @@
+#outer #inner a {
+  background-color: inherit;
+}
+
 #outer div ul .nav a {
   background-color: blue;
   padding: 5px;
